@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eneregos.github.io/sitemap.html
+Sitemap: https://eneregos.github.io/app/sitemap.html
+Sitemap: https://eneregos.github.io/assets/sitemap.html
+Sitemap: https://eneregos.github.io/css/sitemap.html
+Sitemap: https://eneregos.github.io/includes/sitemap.html
+Sitemap: https://eneregos.github.io/src/sitemap.html
